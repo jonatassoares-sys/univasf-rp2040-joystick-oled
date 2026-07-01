@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/pratica_joystick_oled.elf"
+firmware = "build/pratica_joystick_oled.uf2"

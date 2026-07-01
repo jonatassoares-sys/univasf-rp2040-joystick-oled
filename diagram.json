@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "author": "Equipe",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-pi-pico-w", "id": "pico", "top": 0, "left": 0, "attrs": {} },
+    { "type": "board-ssd1306", "id": "oled", "top": 50, "left": 200, "attrs": {} },
+    { "type": "wokwi-analog-joystick", "id": "joystick", "top": 150, "left": -150, "attrs": {} }
+  ],
+  "connections": [
+    [ "pico:GP14", "oled:SDA", "", [] ],
+    [ "pico:GP15", "oled:SCL", "", [] ],
+    [ "pico:3V3", "oled:VCC", "", [] ],
+    [ "pico:GND", "oled:GND", "", [] ],
+    [ "pico:GP26", "joystick:HORZ", "", [] ],
+    [ "pico:3V3", "joystick:VCC", "", [] ],
+    [ "pico:GND", "joystick:GND", "", [] ]
+  ]
+}
