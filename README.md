@@ -43,7 +43,7 @@ A construção lógica do software obedeceu às seguintes exigências de engenha
 
 ##  Demonstração em Vídeo (Vídeo Ensaio)
 
-Como etapa mandatória para a conclusão e avaliação da prática , foi produzido um vídeo ensaio focado na explicação técnica da solução, demonstração do código-fonte e validação dos resultados com duração máxima de 5 minutos[cite: 45].
+Como etapa mandatória para a conclusão e avaliação da prática , foi produzido um vídeo ensaio focado na explicação técnica da solução, demonstração do código-fonte e validação dos resultados com duração máxima de 5 minutos[https://canva.link/r8rbx98nq5r4lbk].
 
 
 ---
